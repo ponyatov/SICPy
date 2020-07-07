@@ -1,9 +1,10 @@
 # `Number`
 
 * [[Primitive]]
-  * [[Integer]]
-    * [[Hex]]
-    * [[Bin]]
+  * [[Number]]
+    * [[Integer]]
+      * [[Hex]]
+      * [[Bin]]
 
 ```py
 class Number(Primitive):
